@@ -1,0 +1,13 @@
+<h1 align="center">My Nodes</h1>
+- Quan Network
+- Manta
+- Strtos
+- Defund
+- Massa
+- Stafihub
+- Peaq
+- Aptos
+- Forta
+- Ironfish
+- Gitopia
+- Archway
