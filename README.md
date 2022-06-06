@@ -11,3 +11,6 @@
 - Archway
 - Gitopia
 - Peaq
+- Subspace
+- Kujira
+- Sei
