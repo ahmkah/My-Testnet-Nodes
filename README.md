@@ -14,3 +14,5 @@
 - Subspace
 - Kujira
 - Sei
+- Paloma
+- Razor
