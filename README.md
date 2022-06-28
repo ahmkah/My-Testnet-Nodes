@@ -16,3 +16,5 @@
 - Sei
 - Paloma
 - Razor
+- Quicksilver (Rapsody-5, killerqueen-1, qkcosmos-1)
+- Espresso
